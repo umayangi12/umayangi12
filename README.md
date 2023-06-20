@@ -3,7 +3,7 @@
 
 <h3 align="left">I am a passionate full-stack developer, driven by my love for creating innovative and dynamic web applications that deliver exceptional user experiences. As a full-stack developer, I possess a comprehensive understanding of both front-end and back-end technologies, enabling me to tackle projects from end to end and provide robust solutions. As a dedicated full-stack developer, I am committed to delivering top-notch solutions that meet client requirements while adhering to industry standards and best practices. Through my passion for continuous learning and my determination to stay at the forefront of technological advancements, I aim to make a meaningful impact in the world of web development.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 - 🌱 I’m currently learning **Vue js, Vuetify, Firebase, Algolia**
 
