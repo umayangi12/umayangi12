@@ -3,11 +3,13 @@
 
 <h3 align="left">I am a passionate full-stack developer, driven by my love for creating innovative and dynamic web applications that deliver exceptional user experiences. As a full-stack developer, I possess a comprehensive understanding of both front-end and back-end technologies, enabling me to tackle projects from end to end and provide robust solutions. As a dedicated full-stack developer, I am committed to delivering top-notch solutions that meet client requirements while adhering to industry standards and best practices. Through my passion for continuous learning and my determination to stay at the forefront of technological advancements, I aim to make a meaningful impact in the world of web development.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
 
 - 🌱 I’m currently learning **Vue js, Vuetify, Firebase, Algolia**
 
 - 📫 How to reach me **umayangi1999@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
