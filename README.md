@@ -2,7 +2,7 @@
 <h1 align="center">Hi 😇👋, I'm Umayangi Ekanayake</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%2344F722&lines=Software+Engineering+Student;Problem+Solver;Always%20try%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C372FC&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Team+Player;Quick+Learner" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="left">I am a passionate full-stack developer, driven by my love for creating innovative and dynamic web applications that deliver exceptional user experiences. As a full-stack developer, I possess a comprehensive understanding of both front-end and back-end technologies, enabling me to tackle projects from end to end and provide robust solutions. As a dedicated full-stack developer, I am committed to delivering top-notch solutions that meet client requirements while adhering to industry standards and best practices. Through my passion for continuous learning and my determination to stay at the forefront of technological advancements, I aim to make a meaningful impact in the world of web development.</h3>
