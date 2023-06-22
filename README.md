@@ -1,6 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 😇👋, I'm Umayangi Ekanayake</h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%2344F722&lines=Software+Engineering+Student;Problem+Solver;Always%20try%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
 <h3 align="left">I am a passionate full-stack developer, driven by my love for creating innovative and dynamic web applications that deliver exceptional user experiences. As a full-stack developer, I possess a comprehensive understanding of both front-end and back-end technologies, enabling me to tackle projects from end to end and provide robust solutions. As a dedicated full-stack developer, I am committed to delivering top-notch solutions that meet client requirements while adhering to industry standards and best practices. Through my passion for continuous learning and my determination to stay at the forefront of technological advancements, I aim to make a meaningful impact in the world of web development.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=umayangi12&label=Profile%20views&color=0e75b6&style=flat" alt="umayangi12" /> </p>
